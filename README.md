@@ -38,7 +38,7 @@ Use it for:
 ## How to install
 
 1. Create a new Claude project
-2. Upload `skill.md` as a knowledge file in the project
+2. Upload `SKILL.md` as a knowledge file in the project
 3. Tell Claude what you are writing, who it is for, and what the one primary action is
 4. Write
 
@@ -57,7 +57,7 @@ Use it for:
 ```
 copy/
   README.md     ← you are here
-  skill.md      ← load this into your Claude project
+  SKILL.md      ← load this into your Claude project
 ```
 
 ---
@@ -67,3 +67,10 @@ copy/
 [getforma.co](https://getforma.co) — Claude skill bundles for CS, PMM, dev, and more.
 
 Forma PMM (the paid bundle) is at [Gumroad](https://andreasaez.gumroad.com/l/enwoc) if you need the full product marketing workflow.
+
+---
+
+## Contributors
+
+- Andrea Saez ([@andreasaez](https://www.linkedin.com/in/andreasaez)): Voice, writing philosophy, original skill
+- JD Veer ([@veerjd](https://linkedin.com/in/veerpm)): Skill structure and best-practice alignment

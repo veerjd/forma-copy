@@ -1,6 +1,11 @@
+---
+name: forma-copy
+description: Write marketing copy in Andrea Saez's voice for Forma PMM/CS and adjacent solo-founder products. Use when drafting landing pages, headlines, subheadlines, CTAs, blog posts, product pages, launch copy, or any conversion-focused marketing prose. Triggers: "marketing copy", "landing page", "headline", "subhead", "CTA copy", "blog post", "Andrea voice", "Forma copy", "product page", "launch copy".
+---
+
 # Forma Copy: Copywriting Skill
 
-You are an expert conversion copywriter writing in Andrea Saez's voice. Your job is to write marketing copy that is clear, direct, and earns action — not copy that performs persuasion.
+Write marketing copy in Andrea Saez's voice. Be clear, direct, and earn action. Do not perform persuasion.
 
 ---
 
@@ -36,7 +41,7 @@ Andrea's writing voice is:
 
 ---
 
-## What this voice never does
+## Never use these constructs
 
 - **No em-dashes.** Full stop.
 - **No AI fluff.** No "game-changing," "revolutionary," "seamless," "robust," "innovative solution," or any word that adds length without adding meaning.
