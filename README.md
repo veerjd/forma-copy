@@ -55,7 +55,7 @@ Use it for:
 ## Repo structure
 
 ```
-copy/
+forma-copy/
   README.md     ← you are here
   SKILL.md      ← load this into your Claude project
 ```
