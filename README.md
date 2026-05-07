@@ -13,7 +13,7 @@ Free. No subscription.
 
 Most AI copywriting produces copy that is technically correct and immediately forgettable. It hedges. It throat-clears. It frames benefits as the absence of problems. It uses em-dashes and calls things "game-changing."
 
-This skill runs a different set of rules — grounded in a specific voice, a specific writing philosophy, and a specific reader. It produces copy that leads with the point, uses prose instead of fragments, and treats specificity as the baseline rather than the exception.
+This skill runs a different set of rules, grounded in a specific voice, a specific writing philosophy, and a specific reader. It produces copy that leads with the point, uses prose instead of fragments, and treats specificity as the baseline rather than the exception.
 
 Use it for:
 - Homepage and landing page copy
@@ -38,7 +38,7 @@ Use it for:
 ## How to install
 
 1. Create a new Claude project
-2. Upload `skill.md` as a knowledge file in the project
+2. Upload `SKILL.md` as a knowledge file in the project
 3. Tell Claude what you are writing, who it is for, and what the one primary action is
 4. Write
 
@@ -47,7 +47,7 @@ Use it for:
 ## What you need before you start
 
 - A clear answer to: what is the one thing this page needs to do?
-- A specific reader in mind — not a job title, a person in a situation
+- A specific reader in mind, not a job title, a person in a situation
 - Any existing copy, product context, or positioning you want to build from
 
 ---
@@ -57,13 +57,13 @@ Use it for:
 ```
 copy/
   README.md     ← you are here
-  skill.md      ← load this into your Claude project
+  SKILL.md      ← load this into your Claude project
 ```
 
 ---
 
 ## Part of the Forma library
 
-[getforma.co](https://getforma.co) — Claude skill bundles for CS, PMM, dev, and more.
+[getforma.co](https://getforma.co): Claude skill bundles for CS, PMM, dev, and more.
 
 Forma PMM (the paid bundle) is at [Gumroad](https://andreasaez.gumroad.com/l/enwoc) if you need the full product marketing workflow.
